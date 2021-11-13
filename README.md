@@ -1,1 +1,1 @@
-# messagekoparasayo
+{ "SendMessage":19, "MyMessage": " Dear User... \n\nNotes: \nYou need to finish the video to claim your time reward..  \n\n💙 If connected but no browse , Airplane mode or Restart Device\n\njolienna💙"}
